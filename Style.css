@@ -1,0 +1,111 @@
+﻿body {
+    border-color: azure;
+   color:red;
+    font-size: x-large;
+}
+
+newStyle1 {
+
+
+    color:red;
+}
+
+.textbox{
+
+    color:red;
+}
+
+ .btn_style1 {
+            border: thick dashed #FF0000;
+            position: absolute;
+            width: 60px;
+            height: 50px;
+            top: 318px;
+            padding: 10px;
+            left: 10px;
+        }
+
+
+
+  .btn_style2 {
+            border: thick dashed #FF0000;
+            position: absolute;
+            width: 60px;
+            height: 50px;
+            top: 318px;
+            padding: 10px;
+            left: 40px;
+        }
+
+
+
+   .btn_style3 {
+            border: thick dashed #FF0000;
+            position: absolute;
+            width: 60px;
+            height: 50px;
+            top: 318px;
+            padding: 10px;
+            left: 70px;
+        }
+
+
+
+
+    .btn_style4 {
+            border: thick dashed #FF0000;
+            position: absolute;
+            width: 60px;
+            height: 50px;
+            top: 318px;
+            padding: 10px;
+            left: 100px;
+        }
+
+     .btn_style5 {
+            border: thick dashed #FF0000;
+            position: absolute;
+            width: 60px;
+            height: 50px;
+            top: 318px;
+            padding: 10px;
+            left: 130px;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+button{
+
+
+}
+.newStyle2 {
+    border: thick dashed #FF0000;
+    position: absolute;
+    width: inherit;
+    height: inherit;
+    top: auto;
+    padding: 50px;
+}
+  .auto-style1 {
+            border: thick dashed #FF0000;
+            position: absolute;
+            width: 145px;
+            height: inherit;
+            top: 100px;
+            padding: 50px;
+            left: 239px;
+        }
